@@ -1,2 +1,2 @@
 # CV
-A description of my past and current experiences of my life and career
+A description of my past and current experiences in my life and career

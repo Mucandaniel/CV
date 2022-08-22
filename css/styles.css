@@ -1,0 +1,221 @@
+body {
+  background-color: white;
+  margin: 0;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+}
+
+div {
+  height: 800px;
+  padding: 20px;
+  position: relative;
+}
+
+h1 {
+  margin-top: 193px;
+  margin-bottom: 0;
+  font-size: 100px;
+  color: #FBD0BC;
+  font-family: 'Edu VIC WA NT Beginner', cursive;
+  line-height: 126px;
+}
+
+h2 {
+  color: #E07369;
+}
+
+p {
+  color: #FFE8E8;
+  font-family: 'Roboto', sans-serif;
+  line-height: 2;
+}
+
+hr {
+  border-style: none;
+  border-color: #FBD0BC;
+  width: 5%;
+  border-top-style: dotted;
+  border-width: 7px;
+  margin: 20px auto 0 auto;
+  opacity: 70%;
+}
+
+img {
+  width: 50px;
+  margin: auto;
+}
+
+.top_background {
+  background-color: #E07369;
+  position: relative;
+}
+
+.fixed-profile {
+  width: 100px;
+  position: fixed;
+  left: 20px;
+  top: 20px;
+}
+
+.software-engineer {
+  font-style: italic;
+  font-size: 25px;
+  margin: 0;
+  margin-bottom: 15px;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-weight: normal;
+}
+
+.software {
+  color: white;
+  /* display: none; */
+  /* visibility: hidden; */
+  /* text-decoration: underline; */
+}
+
+.cloud1 {
+  width: 200px;
+  position: absolute;
+  left: 350px;
+  bottom: 450px;
+}
+
+.cloud2 {
+  width: 200px;
+  position: absolute;
+  top: 150px;
+  right: 350px;
+}
+
+.mountain {
+  /* margin: auto; */
+  margin: 0 auto 0 auto;
+  width: 450px;
+  position: relative;
+  bottom: 0;
+}
+
+.middle_background {
+  background-color: #FFE8E8;
+  height: 2400px;
+}
+
+.profile_pic {
+  width: 400px;
+  margin: 50px auto 0 auto;
+}
+
+.main-paragraph{
+  color: #B39191;
+}
+
+.skills-row {
+  width: 50%;
+  margin: 0 auto 0 auto;
+  text-align: left;
+  height: 65%;
+}
+
+.web {
+  background-color: #B39191;
+  height: 200px;
+  border-radius: 45px;
+}
+
+.web:hover {
+  background-color: #E07369;
+  position: relative;
+  right: 40px;
+}
+
+.web-design {
+  width: 200px;
+  float: left;
+  margin-right: 30px;
+}
+
+.web-heading {
+  color: white;
+  margin-left: 0;
+}
+
+.design {
+  background-color: #B39191;
+  height: 200px;
+  border-radius: 25px;
+  margin: 150px 0 0 0;
+
+}
+
+.design:hover{
+  background-color: #E07369;
+  position: relative;
+  left: 40px;
+}
+
+.graphic-designing {
+  width: 200px;
+  float: right;
+  margin-left: 30px;
+}
+
+.design-paragraph {
+  color: white;
+}
+
+.model {
+  background-color: #B39191;
+  height: 200px;
+  border-radius: 25px;
+  margin: 150px 0 0 0;
+}
+
+.model:hover{
+  background-color: #E07369;
+  position: relative;
+  right: 40px;
+}
+
+.modeling {
+  width: 200px;
+  float: left;
+  margin-right: 30px;
+}
+
+.modeling-heading {
+  color: white;
+}
+
+.skills-paragraph {
+  color: white;
+}
+
+.bottom-background {
+  background-color: #FBD0BC;
+  height: 150px;
+}
+
+.contact-div {
+  height: 100px;
+  position: relative;
+  bottom: 40px;
+}
+
+.contact-information {
+  color: #943E37;
+  font-size: 25px;
+  margin: 20px auto 10px auto;
+}
+
+.footer {
+  margin: 0 auto 0 auto;
+  position: relative;
+  bottom: 10px;
+  color: #B39191;
+  opacity: 70%;
+}
+
+.hover:hover {
+  width: 60px;
+}
